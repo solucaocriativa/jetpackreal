@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7128921"
-     inkscape:cx="200.83669"
-     inkscape:cy="524.18368"
+     inkscape:cx="206.86185"
+     inkscape:cy="653.91949"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -57,12 +57,12 @@
      id="layer1"
      transform="translate(0,-87)">
     <rect
-       style="fill:#c59b4d;stroke:#ae6310;stroke-width:0.72195137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#c59b4d;fill-opacity:1;stroke:#ae6310;stroke-width:0.72195137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10"
        width="25.736382"
        height="25.736382"
-       x="11.225211"
-       y="108.26247"
+       x="10.919796"
+       y="103.55424"
        inkscape:export-filename="C:\Users\ltrindade\Downloads\bloco1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -79,6 +79,25 @@
        x="10.423915"
        y="58.589931"
        inkscape:export-filename="C:\Users\ltrindade\Documents\ground.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#0292fd;fill-opacity:1;stroke:#0000ff;stroke-width:0.49573839;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4485"
+       width="13.83576"
+       height="12.411667"
+       x="50.864819"
+       y="30.463245"
+       inkscape:export-filename="C:\Users\ltrindade\Documents\path4487.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#1d4065;fill-opacity:1;stroke:none;stroke-width:0.56543893;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4487"
+       cx="57.7827"
+       cy="23.383472"
+       r="6.8920488"
+       inkscape:export-filename="C:\Users\ltrindade\Documents\path4487.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
